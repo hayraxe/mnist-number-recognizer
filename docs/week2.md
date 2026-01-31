@@ -26,3 +26,6 @@ Teknine toteutus on aloitettu
 2.  **Datan lataaja:** Lataa levylle tallennetun MNIST-datan ja esikäsittelee seb (normalisointi ja lytistäminen).
 3.  **Harjoitussilmukka:** Harjoituksien ajaminen pienemmissä sekoitetuissa "bätcheissä"
 4.  **Testit:** Kattavat testit
+
+## Tuntikirjanpito
+- Käytetty aika tällä viikolla: **8 h**
